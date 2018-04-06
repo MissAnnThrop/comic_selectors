@@ -568,7 +568,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/nonsequitur",
+  "url":"https://www.arcamax.com/thefunnies/nonsequitur/",
   "title":"Non Sequitur",
   "imageUrl":"http://assets.amuniversal.com/1a418090038501361dda005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -579,7 +579,7 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/nonsequitur",
+  "lastSelector":"https://www.arcamax.com/thefunnies/nonsequitur/",
   "lastIndex":"-1"
 },
 {
@@ -2005,7 +2005,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/peanuts/",
+  "url":"https://www.arcamax.com/thefunnies/peanuts/",
   "title":"Peanuts",
   "imageUrl":"http://assets.amuniversal.com/e33a10c0f87b013014e9001dd8b71c47",
   "imageSelector":".item-comic-image img",
