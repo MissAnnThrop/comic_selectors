@@ -177,7 +177,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/culdesac/",
     "title": "Cul de sac",
-    "imageUrl": "https://www.arcamax.com/newspics/161/16151/1615151.gif",
+    "imageUrl": "https://www.arcamax.com/newspics/169/16920/1692079.gif",
     "imageSelector": "#comic-zoom",
     "imageIndex": "0",
     "prevSelector": ".prev",
@@ -763,7 +763,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/diamondlil/",
     "title": "Diamond Lil",
-    "imageUrl": "https://www.arcamax.com/newspics/158/15816/1581635.gif",
+    "imageUrl": "https://www.arcamax.com/newspics/169/16935/1693514.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
